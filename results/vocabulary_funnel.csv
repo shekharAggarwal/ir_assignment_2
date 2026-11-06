@@ -1,0 +1,7 @@
+stage,vocabulary size,total tokens,type/token ratio,hapax terms (freq = 1)
+0. raw whitespace tokens,13000,84357,0.1541,8112
+1. cleaned + tokenised (case kept),8328,79295,0.105,4184
+2. + lower-casing,7158,79295,0.0903,3382
+3. + stop-word removal,7021,39556,0.1775,3378
+4. + Porter stemming,4987,39556,0.1261,2148
+5. + n-grams (1-1),4987,39556,0.1261,2148

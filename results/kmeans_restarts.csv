@@ -1,0 +1,11 @@
+restart seed,RSS,iterations,stop,seed documents
+537,1123.000014056221,28,converged: no document changed cluster in iteration 28,"R0871, R1216, R0263, R0543, R0857, R0162"
+538,1123.2931545761971,23,converged: no document changed cluster in iteration 23,"R0318, R0056, R0475, R0194, R0381, R1097"
+539,1123.3993610669654,10,converged: no document changed cluster in iteration 10,"R0348, R0901, R1216, R0856, R1022, R1002"
+540,1124.452761052974,16,converged: no document changed cluster in iteration 16,"R0730, R0797, R0034, R0375, R0537, R0474"
+541,1125.105801268189,16,converged: no document changed cluster in iteration 16,"R0422, R0556, R0172, R0207, R0408, R0554"
+542,1123.1019798954183,12,converged: no document changed cluster in iteration 12,"R0569, R0191, R0223, R0534, R0430, R1100"
+543,1123.3274512017615,25,converged: no document changed cluster in iteration 25,"R1020, R1201, R1146, R0107, R0935, R0702"
+544,1125.114306149714,11,converged: no document changed cluster in iteration 11,"R0794, R0329, R0365, R0664, R1155, R0840"
+545,1123.0875135655597,16,converged: no document changed cluster in iteration 16,"R0252, R1081, R1071, R0766, R1222, R0273"
+546,1123.3328294627731,19,converged: no document changed cluster in iteration 19,"R0017, R0471, R1084, R0893, R0451, R0176"

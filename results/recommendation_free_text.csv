@@ -1,0 +1,6 @@
+query,rank,doc_id,score,category,title,rating,date,shared terms
+"The leash broke after a week and my dog got loose, the stitching is poor quality.",1,R0856,0.3545,Pet Supplies,You want to regret it!,5.0,2019-10-03,"leash, dog"
+"The leash broke after a week and my dog got loose, the stitching is poor quality.",2,R0068,0.2837,Pet Supplies,Broke after 2 uses,1.0,2021-05-05,"poor, broke, week, dog, qualiti"
+"The leash broke after a week and my dog got loose, the stitching is poor quality.",3,R1064,0.2578,Pet Supplies,Good design,5.0,2021-02-19,"leash, dog"
+"The leash broke after a week and my dog got loose, the stitching is poor quality.",4,R1027,0.1757,Pet Supplies,Excellent.,5.0,2017-06-17,"stitch, dog, qualiti"
+"The leash broke after a week and my dog got loose, the stitching is poor quality.",5,R0513,0.1719,Pet Supplies,Prone to breaking but it does what it’s supposed to,3.0,2020-07-05,"stitch, broke, qualiti"

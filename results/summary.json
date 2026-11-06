@@ -1,0 +1,188 @@
+{
+  "corpus": {
+    "documents": 1224,
+    "categories": 6,
+    "raw text size (MB)": 0.467,
+    "total raw tokens": 88004,
+    "raw vocabulary (whitespace tokens)": 13047,
+    "mean tokens / doc": 71.9,
+    "median tokens / doc": 52.0,
+    "min tokens / doc": 30,
+    "max tokens / doc": 344,
+    "metadata fields": 14,
+    "date range": "2000-06-13 to 2023-07-09",
+    "rows read": 1224,
+    "rows dropped (empty text)": 0,
+    "duplicate ids renamed": 0,
+    "documents loaded": 1224
+  },
+  "backends": {
+    "stemmer": "NLTK PorterStemmer",
+    "lemmatizer": "NLTK WordNet lemmatizer"
+  },
+  "default_config": {
+    "preprocessing": "strip markup, lower-case, stop-words (keep negations), Porter stemming, unigrams",
+    "features": {
+      "min_df": 2,
+      "max_df": 0.95,
+      "max_features": 5000,
+      "tf_scheme": "log",
+      "idf_scheme": "idf"
+    },
+    "dedup": {
+      "policy": "remove_near",
+      "threshold": 0.8
+    },
+    "model": {
+      "test_size": 0.25,
+      "seed": 537,
+      "alpha": 1.0,
+      "group_split": true,
+      "k": 0,
+      "init": "k-means++",
+      "metric": "euclidean",
+      "n_init": 10,
+      "max_iter": 100,
+      "tol": 0.0001,
+      "top_k": 5,
+      "collapse_duplicates": true
+    }
+  },
+  "analysis_documents": 1163,
+  "vocabulary": {
+    "all terms": 4987,
+    "after pruning": 2591,
+    "postings": 30356,
+    "matrix shape": [
+      1163,
+      2591
+    ],
+    "matrix density": 0.010073894919678642
+  },
+  "duplicates": {
+    "groups": 60,
+    "exact groups": 51,
+    "near pairs": 62,
+    "docs removed": 61,
+    "detection vs ground truth": {
+      "true pairs": 62,
+      "detected pairs": 62,
+      "correct pairs": 62,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    }
+  },
+  "naive_bayes": {
+    "accuracy": 0.7743055555555556,
+    "macro": {
+      "precision": 0.7743500426175198,
+      "recall": 0.7743055555555555,
+      "f1": 0.7740969583126106
+    },
+    "weighted": {
+      "precision": 0.7743500426175198,
+      "recall": 0.7743055555555556,
+      "f1": 0.7740969583126105
+    },
+    "n_train": 875,
+    "n_test": 288
+  },
+  "kmeans": {
+    "k": 6,
+    "purity": 0.4754944110060189,
+    "rand_index": 0.7662848914389903,
+    "pair_counts": {
+      "TP": 37324,
+      "FP": 83113,
+      "FN": 74809,
+      "TN": 480457
+    },
+    "rss": 1123.000014056221,
+    "iterations": 28,
+    "stop_reason": "converged: no document changed cluster in iteration 28",
+    "pca_explained": [
+      0.006339574839532515,
+      0.004805560052619519
+    ],
+    "cluster_sizes": {
+      "4": 277,
+      "1": 178,
+      "5": 244,
+      "2": 194,
+      "0": 136,
+      "3": 134
+    }
+  },
+  "recommendation": {
+    "precision_at_k": 0.5712811693895099,
+    "mrr": 0.7831900257953585,
+    "duplicate_rate": 0.0,
+    "k": 5
+  },
+  "timings": {
+    "preprocessing": 0.1391803749720566,
+    "inverted index + TF-IDF": 0.04226170800393447,
+    "duplicate detection": 0.014479667006526142,
+    "re-index after de-duplication": 0.05299779097549617
+  },
+  "chance_baseline": {
+    "purity": 0.1978933791917455,
+    "rand_index": 0.7147785343560706,
+    "rounds": 20
+  },
+  "majority_class_rate_test": 0.16666666666666666,
+  "variability_default_config": {
+    "documents": 1163,
+    "vocabulary (all terms)": 4987,
+    "vocabulary (after df pruning)": 2591,
+    "mean terms / doc": 34.01203783319003,
+    "NB accuracy": 0.7822916666666666,
+    "NB accuracy sd": 0.02439083364247795,
+    "NB macro-F1": 0.7828882183117167,
+    "NB macro-F1 sd": 0.02384661074215908,
+    "K-Means purity": 0.46921754084264833,
+    "K-Means purity sd": 0.044202047979298865,
+    "K-Means Rand Index": 0.7536660337455953,
+    "K-Means RI sd": 0.015720084747750235,
+    "Rec P@5": 0.5712811693895099,
+    "Rec MRR": 0.7831900257953585,
+    "seconds": 7.306120166962501
+  },
+  "collaborative_feasibility": {
+    "reviews": 1224,
+    "distinct users": 1105,
+    "users with >= 2 reviews": 62,
+    "distinct items (parent_asin)": 1059,
+    "items with >= 2 reviewers": 64,
+    "user-item matrix density": 0.0009972696858215938,
+    "users sharing an item with another user": 172
+  },
+  "dataset_duplicates": {
+    "ground-truth groups": 60,
+    "documents in ground-truth groups": 121,
+    "injected variants": 24
+  },
+  "free_text_query": "The leash broke after a week and my dog got loose, the stitching is poor quality.",
+  "environment": {
+    "python": "3.14.6",
+    "system": "Darwin",
+    "machine": "arm64",
+    "macos": "27.0.1",
+    "streamlit": "1.67.0",
+    "pandas": "3.1.1",
+    "numpy": "2.5.4",
+    "plotly": "7.1.0",
+    "nltk": "3.10.4"
+  },
+  "claim_evidence": {
+    "train_bigram_types": 25065,
+    "train_bigrams_seen_once": 0.9135447835627369,
+    "train_unigram_types": 4312,
+    "train_unigrams_seen_once": 0.4427179962894249,
+    "mean_cosine_same_category": 0.02940005068729894,
+    "mean_cosine_different_category": 0.017911891804032406
+  },
+  "recommendation_p_at_1": 0.6784178847807395,
+  "runtime_seconds": 114.61906549998093
+}

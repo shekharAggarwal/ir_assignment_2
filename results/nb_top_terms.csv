@@ -1,0 +1,61 @@
+class,rank,term,log-odds
+Appliances,1,ice,3.723
+Appliances,2,coffe,3.431
+Appliances,3,filter,3.169
+Appliances,4,refriger,3.026
+Appliances,5,cup,2.877
+Appliances,6,maker,2.836
+Appliances,7,dryer,2.704
+Appliances,8,foil,2.515
+Appliances,9,stove,2.515
+Appliances,10,water,2.494
+Beauty,1,hair,3.929
+Beauty,2,skin,3.35
+Beauty,3,brush,3.233
+Beauty,4,bottl,2.6
+Beauty,5,oil,2.552
+Beauty,6,wig,2.552
+Beauty,7,curl,2.45
+Beauty,8,smell,2.435
+Beauty,9,blond,2.355
+Beauty,10,polish,2.26
+Musical Instruments,1,guitar,3.935
+Musical Instruments,2,amp,3.195
+Musical Instruments,3,string,2.804
+Musical Instruments,4,pedal,2.705
+Musical Instruments,5,sound,2.695
+Musical Instruments,6,instrument,2.608
+Musical Instruments,7,mic,2.54
+Musical Instruments,8,bass,2.533
+Musical Instruments,9,speaker,2.411
+Musical Instruments,10,karaok,2.384
+Pet Supplies,1,dog,4.075
+Pet Supplies,2,cat,3.467
+Pet Supplies,3,puppi,3.096
+Pet Supplies,4,litter,3.047
+Pet Supplies,5,har,2.776
+Pet Supplies,6,food,2.69
+Pet Supplies,7,toy,2.68
+Pet Supplies,8,eat,2.55
+Pet Supplies,9,collar,2.449
+Pet Supplies,10,cage,2.354
+Software,1,app,3.637
+Software,2,game,3.403
+Software,3,kindl,2.926
+Software,4,download,2.907
+Software,5,program,2.625
+Software,6,tax,2.578
+Software,7,account,2.519
+Software,8,version,2.391
+Software,9,fire,2.352
+Software,10,fun,2.351
+Video Games,1,game,3.809
+Video Games,2,headset,3.318
+Video Games,3,keyboard,2.95
+Video Games,4,mous,2.87
+Video Games,5,charact,2.626
+Video Games,6,consol,2.513
+Video Games,7,xbox,2.359
+Video Games,8,player,2.271
+Video Games,9,control,2.253
+Video Games,10,ear,2.143

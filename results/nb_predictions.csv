@@ -1,0 +1,289 @@
+doc_id,title,actual,predicted,confidence,correct
+R0003,Super addictive!,Software,Video Games,0.5463,False
+R0005,It works well,Musical Instruments,Musical Instruments,0.9509,True
+R0008,My broken mouthpiece works better than this mouthpiece,Musical Instruments,Musical Instruments,1.0,True
+R0017,This game has become very addictive I just wish they ...,Software,Software,0.7307,True
+R0020,My dog loves the feel of the brush,Pet Supplies,Beauty,1.0,False
+R0021,Awesome,Appliances,Appliances,0.9998,True
+R0024,Don’t buy if your in the US!!!,Video Games,Musical Instruments,0.8208,False
+R0025,Ok,Video Games,Video Games,0.9832,True
+R0029,It works on Canine Warts!,Pet Supplies,Pet Supplies,1.0,True
+R0032,Absolute junk,Video Games,Video Games,0.9145,True
+R0033,Amazing product!,Beauty,Beauty,1.0,True
+R0035,"Great new features, but I miss the QuickTabs from version '99",Software,Software,0.9996,True
+R0039,AMAZING WIRES FOR THE PRICE!!!,Musical Instruments,Musical Instruments,0.9867,True
+R0040,Very nice,Video Games,Video Games,0.8851,True
+R0041,Easy to install and greatly reduces vibration,Appliances,Appliances,1.0,True
+R0046,WHAT A FUN MACHINE!,Musical Instruments,Musical Instruments,1.0,True
+R0048,Saved money but have had to replace twice in 3 years.,Appliances,Appliances,1.0,True
+R0054,awesomeness,Software,Software,1.0,True
+R0056,You too can feel like Lawrence Welk!,Musical Instruments,Pet Supplies,0.9829,False
+R0060,Don't know how the headset is,Video Games,Video Games,1.0,True
+R0061,Just can't do its job,Beauty,Beauty,1.0,True
+R0069,AMAZING GAME!!!!!!,Software,Software,0.9716,True
+R0071,Not happy with this purchase,Video Games,Software,0.9948,False
+R0073,In love!,Video Games,Video Games,0.9999,True
+R0080,The case did not have very good ventilation and my graphics card was getting very warm,Appliances,Appliances,0.9997,True
+R0086,Great product,Pet Supplies,Pet Supplies,1.0,True
+R0087,FALSE ADVERTISING,Beauty,Video Games,0.8799,False
+R0088,Some games impossible to win,Software,Software,0.9985,True
+R0089,Great app for when you don't have a flashlight available!,Software,Software,0.9999,True
+R0090,Top fo stove stay clean Now !!!!  And brightens the kitchen.,Appliances,Beauty,0.9986,False
+R0102,this game sucks,Software,Video Games,0.8596,False
+R0109,Falling apart in less than a month,Pet Supplies,Pet Supplies,1.0,True
+R0113,Cute,Pet Supplies,Pet Supplies,0.9552,True
+R0117,I would like someone to contact me because this should be replaced free of charge,Appliances,Appliances,1.0,True
+R0123,WONDERFUL!!! WORTH THE MONEY!!!!!,Pet Supplies,Pet Supplies,1.0,True
+R0126,I like these picks.,Musical Instruments,Musical Instruments,0.9832,True
+R0127,great guitar with one flaw,Musical Instruments,Musical Instruments,1.0,True
+R0136,Exact fit for my dryer.,Appliances,Appliances,1.0,True
+R0142,"Great anytime, anywhere!!!",Software,Software,1.0,True
+R0146,Great little triangles!,Musical Instruments,Video Games,0.727,False
+R0148,Cat feeder,Pet Supplies,Pet Supplies,0.9997,True
+R0149,Easy to install,Appliances,Appliances,1.0,True
+R0150,Junk!!,Beauty,Beauty,0.9925,True
+R0152,Prefer this damper to the OE part in Bosch 3100 series machines,Appliances,Appliances,0.9995,True
+R0159,Big Nice,Video Games,Video Games,0.7828,True
+R0165,great game,Software,Video Games,0.6063,False
+R0170,Quality containers!,Beauty,Pet Supplies,0.998,False
+R0176,...If only it worked.,Musical Instruments,Software,0.9905,False
+R0177,Fantastic coffee brewer !!!,Appliances,Appliances,0.9982,True
+R0180,Defective - sending it back,Musical Instruments,Appliances,0.9629,False
+R0182,The best brows !,Beauty,Beauty,0.7311,True
+R0184,At first it seemed like a great case at an affordable price,Musical Instruments,Musical Instruments,0.8771,True
+R0187,Good Tuner,Musical Instruments,Musical Instruments,1.0,True
+R0189,14in Fits in smaller desk drawer w/ mouse.,Video Games,Video Games,0.8622,True
+R0199,My son likes them,Video Games,Video Games,0.9588,True
+R0208,"LOVE Peace for Fair skin tone, I want more!",Beauty,Beauty,1.0,True
+R0211,Got Comodo at a real sale price for 3 PCs,Software,Software,1.0,True
+R0214,Not my favorite,Beauty,Beauty,0.9992,True
+R0217,My German shepherd rescue LIT UP for this!,Pet Supplies,Pet Supplies,0.5475,True
+R0224,Worth it?,Software,Software,1.0,True
+R0225,Exactly what I needed,Musical Instruments,Musical Instruments,0.9808,True
+R0227,Great adult brain games,Software,Software,0.9961,True
+R0237,crashes often on my kindle fire,Software,Software,0.9998,True
+R0243,Abysmal,Software,Software,0.9997,True
+R0248,This is my favorite eye cream,Beauty,Beauty,0.9999,True
+R0249,Nice looking keyboard... Weird looking keys,Video Games,Video Games,0.9792,True
+R0257,Excellent product and just as described,Appliances,Appliances,0.8534,True
+R0268,Worked well...problem solved,Appliances,Appliances,0.9997,True
+R0272,"good filtering, but had to modify it to work properly in my B40",Appliances,Appliances,1.0,True
+R0274,Quality and Value,Musical Instruments,Musical Instruments,0.9863,True
+R0280,Good quality and powerful glue,Pet Supplies,Pet Supplies,0.8239,True
+R0281,"Love this pedal, great price point",Musical Instruments,Musical Instruments,1.0,True
+R0282,Four Stars,Appliances,Appliances,0.9969,True
+R0287,Horrible,Beauty,Software,0.4666,False
+R0290,Stunning Game!,Software,Video Games,0.9988,False
+R0293,Some glitches,Software,Software,0.9945,True
+R0294,Much Better Than Expected.,Software,Video Games,0.9999,False
+R0319,"Good product, packaging needs work.",Appliances,Musical Instruments,0.9597,False
+R0322,Love these,Beauty,Beauty,0.7383,True
+R0326,My dog shows no interest in this product.,Pet Supplies,Pet Supplies,1.0,True
+R0327,not a very good violin,Musical Instruments,Musical Instruments,1.0,True
+R0329,Stress free my myself and my dogs,Pet Supplies,Pet Supplies,0.4129,True
+R0330,First person shooter advantage with these,Video Games,Video Games,0.9938,True
+R0332,Great for headsets and controllers,Video Games,Video Games,0.9801,True
+R0335,"Built like a rock, sounds like heaven!",Musical Instruments,Musical Instruments,0.9814,True
+R0338,honest review,Beauty,Beauty,1.0,True
+R0340,Terrible Design and Needs Replacing over-and-over.,Appliances,Appliances,0.9899,True
+R0347,Garbage,Beauty,Musical Instruments,0.546,False
+R0349,just what we needed / stove wouldn't light,Appliances,Appliances,1.0,True
+R0350,"Not brand new, not factory sealed. Shady",Video Games,Video Games,0.8138,True
+R0351,epic game,Software,Software,0.9997,True
+R0354,Great fit and finish for smaller sized mugs.,Appliances,Appliances,0.9998,True
+R0360,Better than the. 88 green,Musical Instruments,Musical Instruments,0.964,True
+R0367,Quite possible the perfect corded mouse,Video Games,Video Games,1.0,True
+R0368,My Dog Loves it,Pet Supplies,Pet Supplies,1.0,True
+R0371,"Best, most efficient, Ice Maker",Appliances,Appliances,0.9998,True
+R0375,so much fun!,Software,Software,0.9999,True
+R0377,This stuff is great. And I hate always mentioning that I have ...,Beauty,Beauty,0.9999,True
+R0395,I love it and think it’s funny,Appliances,Appliances,0.5097,True
+R0399,Its multipurpose,Beauty,Beauty,0.9985,True
+R0416,"Did the job, but flimpsy & weak adhesive",Pet Supplies,Appliances,0.8606,False
+R0418,I really enjoy listening to bible versus as I fall asleep,Software,Software,0.9927,True
+R0420,For the discerning Ringo fan. Gibraltar offers a great product yet again.,Musical Instruments,Musical Instruments,0.9566,True
+R0421,the hair looks straight blue after stretching it,Beauty,Beauty,0.9998,True
+R0440,"Lots of choices out there, pleased to have chosen this one...",Musical Instruments,Musical Instruments,0.9996,True
+R0445,Just what I was searching for!!,Beauty,Beauty,0.9997,True
+R0447,laughed so hard.,Software,Pet Supplies,0.9545,False
+R0448,Good improvement over factory piece...,Appliances,Appliances,0.9957,True
+R0458,You will love these.,Appliances,Appliances,0.9835,True
+R0460,"The missing link! So easy, and worked like a charm!",Musical Instruments,Musical Instruments,1.0,True
+R0463,A good cleans have is whar I expect.,Beauty,Beauty,0.6396,True
+R0467,good but,Software,Software,0.6762,True
+R0479,Only for small cats,Pet Supplies,Pet Supplies,0.7985,True
+R0482,Great for Chewers!,Pet Supplies,Pet Supplies,1.0,True
+R0489,Definitely the Best Auto Hair Curler on Amazon,Beauty,Beauty,1.0,True
+R0496,Stopped working after 6 months,Appliances,Appliances,0.9982,True
+R0498,High Quality,Appliances,Appliances,0.9998,True
+R0500,Nice,Software,Software,0.5236,True
+R0501,Better than expected,Video Games,Video Games,1.0,True
+R0510,Wonderful game!,Video Games,Video Games,0.9952,True
+R0513,Prone to breaking but it does what it’s supposed to,Pet Supplies,Musical Instruments,0.9492,False
+R0516,Pretty and sturdy.,Beauty,Musical Instruments,0.9882,False
+R0530,"Cheap pump, not worth $50. Cust. Service is nice",Pet Supplies,Pet Supplies,0.9987,True
+R0531,It is easy to use and I plan to keep using it ...,Software,Software,0.9699,True
+R0535,Great base and nice rgb lighting,Video Games,Video Games,0.9743,True
+R0536,Can't activate,Software,Software,1.0,True
+R0543,Great quality! Great color!  Great look,Video Games,Video Games,0.949,True
+R0548,so cute!,Pet Supplies,Pet Supplies,0.584,True
+R0553,Keyboard stop working,Video Games,Video Games,0.9897,True
+R0557,What's the deal with this food?,Pet Supplies,Pet Supplies,0.9771,True
+R0558,Well built & extremely affordable.,Musical Instruments,Musical Instruments,0.9561,True
+R0560,It’s light,Beauty,Beauty,0.9989,True
+R0562,DOG lover,Pet Supplies,Pet Supplies,1.0,True
+R0564,Developed a rust spot in the bottom of the bowl after only 5 weeks of use,Pet Supplies,Pet Supplies,0.9977,True
+R0565,Good effects,Software,Software,0.9999,True
+R0576,... TO SPEECH IN YOUR APPS WOULD GET YOU THE BEST REVIEWS OF ALL TIME,Software,Software,0.9979,True
+R0578,Has all the features I was looking for. Love it!,Pet Supplies,Pet Supplies,0.8037,True
+R0593,Perfect fit for Maytag MVWX500BWO,Appliances,Appliances,0.9508,True
+R0596,Fell apart,Beauty,Beauty,0.9869,True
+R0597,Fixes KichenAid deli-drawer lid,Appliances,Appliances,1.0,True
+R0598,"MAC Address Missing, Completely Nonfunctional",Video Games,Software,0.9531,False
+R0607,Filters work great and are a perfect fit,Appliances,Appliances,1.0,True
+R0608,She likes it.,Pet Supplies,Pet Supplies,0.9895,True
+R0614,Good memo notes,Software,Software,0.581,True
+R0621,Best Slide Whistle Ever!,Musical Instruments,Musical Instruments,1.0,True
+R0625,Fantastic!!!,Musical Instruments,Video Games,0.9906,False
+R0631,FREE READER FOR MAC,Software,Software,1.0,True
+R0633,Glitter without the grit!,Beauty,Beauty,0.9909,True
+R0636,Charcoal colored water,Appliances,Appliances,0.9999,True
+R0637,wouldnt stay on,Pet Supplies,Pet Supplies,0.8498,True
+R0639,PRS BLACK PICK UP RINGS,Musical Instruments,Musical Instruments,0.9789,True
+R0640,The perfect fridge supply line,Appliances,Appliances,0.9997,True
+R0642,Perfect!,Musical Instruments,Musical Instruments,0.986,True
+R0658,So far so good,Appliances,Appliances,0.9933,True
+R0659,"Save your money, trash.",Beauty,Beauty,0.7147,True
+R0665,Great portable karaoke machine!,Musical Instruments,Musical Instruments,1.0,True
+R0671,Great Budget Dance Floor Dazzler!,Musical Instruments,Musical Instruments,0.9997,True
+R0673,Great console!,Video Games,Video Games,0.998,True
+R0679,but dont let that bother you whit the great story this game offer,Video Games,Video Games,0.9982,True
+R0687,Item sent is not what is pictured,Video Games,Beauty,0.7936,False
+R0719,Good mental exercise!,Pet Supplies,Pet Supplies,0.6425,True
+R0722,Cant get Locally.,Musical Instruments,Appliances,0.9264,False
+R0725,Darn Adorable,Video Games,Video Games,0.6626,True
+R0727,Filters Fit,Appliances,Appliances,1.0,True
+R0733,Very impressive!,Musical Instruments,Musical Instruments,1.0,True
+R0734,"A real ""Find"" Vita C2 Lift",Beauty,Beauty,0.9695,True
+R0737,Peace of mind,Video Games,Video Games,0.5884,True
+R0740,Adorable,Beauty,Musical Instruments,0.7428,False
+R0741,Perfect for beginner student,Musical Instruments,Musical Instruments,1.0,True
+R0747,Deterrent,Appliances,Appliances,0.933,True
+R0753,Bargain,Beauty,Beauty,0.9936,True
+R0754,Mud on the bottom of the cup,Appliances,Appliances,1.0,True
+R0755,Satisfied,Musical Instruments,Musical Instruments,0.8871,True
+R0758,Not exactly as expected,Appliances,Pet Supplies,0.6855,False
+R0764,This is the real deal EaseUS Partition Master Pro,Software,Appliances,0.9446,False
+R0766,Fun Game,Video Games,Video Games,0.9534,True
+R0774,Good product,Beauty,Pet Supplies,0.93,False
+R0781,Great find!!,Beauty,Musical Instruments,0.5341,False
+R0783,Fun to replay over and over!,Video Games,Video Games,0.9989,True
+R0784,MAJOR disappointment!  :(,Video Games,Video Games,1.0,True
+R0789,Works perfectly on Iview 760 android tablet pc.,Software,Software,1.0,True
+R0794,DO WHAT I DO! HAHA 😄,Beauty,Beauty,0.8174,True
+R0795,Unique and beautiful,Appliances,Beauty,0.9437,False
+R0797,I like the concept but the control setup is clumsy...,Video Games,Software,1.0,False
+R0799,They work and super cute too!!,Pet Supplies,Pet Supplies,1.0,True
+R0800,Obsessed,Pet Supplies,Musical Instruments,0.9912,False
+R0802,almost a five.,Software,Software,0.9997,True
+R0803,my cats love this product,Pet Supplies,Pet Supplies,0.9999,True
+R0806,Good and stuff... good not helpful,Software,Software,0.9392,True
+R0811,Don't use Quicken Rental Property Manager even if you get it for free!,Software,Software,1.0,True
+R0813,Works well,Beauty,Musical Instruments,0.4076,False
+R0814,Works pretty well,Appliances,Appliances,1.0,True
+R0815,Excellent Pill Gun,Pet Supplies,Pet Supplies,0.9424,True
+R0819,These do not meet filtering certification guidelines! Buy the name brand!,Appliances,Appliances,1.0,True
+R0820,Nice in winter.,Beauty,Beauty,1.0,True
+R0821,Arrived early and damage free!,Video Games,Pet Supplies,0.7114,False
+R0836,Quality material,Video Games,Musical Instruments,0.9898,False
+R0839,Super Dope,Appliances,Appliances,0.8681,True
+R0840,Excellent item!,Appliances,Appliances,1.0,True
+R0843,All the boys in our neighborhood love it. So of course my son had to ...,Software,Video Games,0.6524,False
+R0853,Perfect for my chichihua,Pet Supplies,Pet Supplies,0.9929,True
+R0862,GREAT PRODUCT,Appliances,Appliances,1.0,True
+R0865,I was using a very fine steel wool to remove yellow oxidation from nickel frets ...,Musical Instruments,Beauty,1.0,False
+R0866,... cheaper than the first party controller but I'm quite pleased with it,Video Games,Video Games,0.91,True
+R0868,Perfect little magnet,Appliances,Appliances,0.8524,True
+R0873,THIS PRODUCT BROKE WITHIN 2 WEEKS OF USE,Pet Supplies,Pet Supplies,0.9999,True
+R0876,addicting,Software,Software,0.9997,True
+R0879,Great product,Software,Software,0.8856,True
+R0883,Colors were awful,Pet Supplies,Beauty,0.9917,False
+R0884,Great Product !,Beauty,Beauty,0.5822,True
+R0889,A product that REALLY works and does what is advertised,Pet Supplies,Pet Supplies,0.9637,True
+R0894,Low quality foil replacement,Beauty,Appliances,0.9623,False
+R0897,So pretty,Beauty,Beauty,0.9963,True
+R0900,I was hesitant but glad I purchased!,Musical Instruments,Pet Supplies,0.4702,False
+R0902,Good Replacement Grips,Video Games,Video Games,0.9987,True
+R0905,Great Tag,Pet Supplies,Pet Supplies,0.9963,True
+R0907,Maybe.  Maybe not...,Software,Software,1.0,True
+R0913,Logo Craze,Software,Video Games,0.9116,False
+R0915,"They work, but are noisy",Appliances,Appliances,1.0,True
+R0917,Worth the buy,Beauty,Beauty,1.0,True
+R0918,Conflicted,Musical Instruments,Musical Instruments,1.0,True
+R0933,"oh my, talk about our soldiers. i could ...",Video Games,Video Games,0.3079,True
+R0935,Bulky and Overpriced,Beauty,Video Games,0.9508,False
+R0938,Far Exceeded my Expectations,Pet Supplies,Pet Supplies,0.9993,True
+R0941,Thankfully it can grow with her and seems to be of good quality so I won't need to purchase her another ...,Musical Instruments,Musical Instruments,0.5713,True
+R0942,We can afford to use our Nespresso now!,Appliances,Appliances,1.0,True
+R0950,Effective product & great price!!,Pet Supplies,Pet Supplies,0.9992,True
+R0952,Worked great for 8 months,Video Games,Video Games,0.9591,True
+R0957,Great seat,Musical Instruments,Video Games,0.4891,False
+R0960,Fits my automatic pet feeder,Pet Supplies,Pet Supplies,0.9786,True
+R0965,Almost as cool as Civ 2.,Video Games,Beauty,0.7918,False
+R0975,SupremeDealsCR...Fantastic customer support,Video Games,Appliances,0.9931,False
+R0977,No Holes For The Turntable Cables on the side of case!,Musical Instruments,Musical Instruments,0.995,True
+R0991,cant change name,Software,Video Games,0.6451,False
+R0993,If you are expecting good quality remy hair (real hair) don’t buy,Beauty,Beauty,1.0,True
+R0994,VERY LOVELY NECKLACES,Beauty,Beauty,1.0,True
+R0995,Bad solder on the board,Video Games,Musical Instruments,0.8736,False
+R0997,uno,Software,Software,0.9652,True
+R1000,"Holy Crap, can Temptations manage to put a REAL FRICKIN LID on their contains?",Pet Supplies,Pet Supplies,1.0,True
+R1004,Works well with my Zoom H6,Musical Instruments,Musical Instruments,0.5816,True
+R1007,Great game,Software,Video Games,0.962,False
+R1014,The hair is not worth it,Beauty,Beauty,1.0,True
+R1020,Its gewd.,Beauty,Beauty,0.9699,True
+R1024,They fit great and look great,Pet Supplies,Beauty,0.964,False
+R1027,Excellent.,Pet Supplies,Pet Supplies,1.0,True
+R1028,Dangerous for kids,Musical Instruments,Musical Instruments,1.0,True
+R1031,Sturdy and Easy To Assemble,Pet Supplies,Pet Supplies,0.9981,True
+R1033,Expensive but helpful,Pet Supplies,Pet Supplies,0.9995,True
+R1036,"think twice before purchasing, download instructions do not work",Software,Software,1.0,True
+R1044,First time with Netflix,Software,Software,0.9796,True
+R1047,A keyboard that doesn’t produce sound.,Musical Instruments,Software,0.7653,False
+R1048,LP is the way to go!,Musical Instruments,Video Games,0.8279,False
+R1051,Fun & Flirty!!,Beauty,Beauty,0.9999,True
+R1066,It is a practice amp and I'm happy,Musical Instruments,Musical Instruments,0.9867,True
+R1068,decapitated within days,Pet Supplies,Pet Supplies,0.8743,True
+R1070,had wonderful volume which was great for bingo or gathering residents ...,Musical Instruments,Software,0.5735,False
+R1072,"Loved this product initially, ruined my nails though!!",Beauty,Beauty,1.0,True
+R1073,"Too big, but he loves them.",Pet Supplies,Pet Supplies,1.0,True
+R1077,Why another payment ?,Video Games,Software,0.6311,False
+R1088,Highly recommended!!,Beauty,Musical Instruments,0.5749,False
+R1089,Disappointed,Video Games,Video Games,0.9986,True
+R1099,Seller Sent Me Wrong Item  >:(,Appliances,Appliances,1.0,True
+R1104,True musical instrument - this is the one to get,Musical Instruments,Musical Instruments,0.9994,True
+R1109,This mouse was absolutely GREAT..,Video Games,Video Games,1.0,True
+R1113,"A good app, But...",Software,Software,0.9992,True
+R1126,Still better than beauty supply store hair,Beauty,Beauty,1.0,True
+R1138,Tomb Raider it's not!!!!!!!,Video Games,Video Games,0.9997,True
+R1139,"Great product, needs slight tweaks.",Video Games,Beauty,0.5905,False
+R1146,perfect,Musical Instruments,Video Games,0.4647,False
+R1149,LIFE SAVER,Pet Supplies,Pet Supplies,0.9885,True
+R1171,it is fun to play,Software,Software,0.802,True
+R1173,good for the price,Musical Instruments,Musical Instruments,0.4563,True
+R1176,Complete waste of money,Pet Supplies,Appliances,0.5988,False
+R1178,The only thing I liked about this product was the smell of my hair ...,Pet Supplies,Beauty,1.0,False
+R1180,I would highly recommend you to get the Mayflash controller adapter,Video Games,Video Games,0.841,True
+R1182,Did not feel it was the authentic product,Beauty,Beauty,0.9871,True
+R1190,Glue burns.,Pet Supplies,Pet Supplies,0.954,True
+R1192,Easy to use,Appliances,Appliances,1.0,True
+R1198,Great old game for Netbooks and Laptops,Video Games,Software,1.0,False
+R1199,Accidentally bought this while high,Video Games,Musical Instruments,0.6753,False
+R1205,GE WATER FILTERS from Water Drop Are Awesome,Appliances,Appliances,1.0,True
+R1208,Do not buy.,Beauty,Pet Supplies,0.5511,False
+R1214,DOESN'T LEAVE A MESS,Musical Instruments,Musical Instruments,0.9427,True
+R1215,"Easy to order, install, and use",Software,Software,1.0,True
+R1218,You get what you pay for,Beauty,Beauty,0.9995,True
+R1220,Great looking as well as functional,Appliances,Appliances,0.9994,True
+R1222,They work great!,Video Games,Software,0.8116,False
+R1224,worked great,Appliances,Musical Instruments,0.4561,False

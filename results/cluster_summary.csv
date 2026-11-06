@@ -1,0 +1,7 @@
+cluster,size,majority label,majority share,top terms
+0,136,Beauty,0.6397058823529411,"skin, hair, brush, color, use, dri, look, soft, nice, appli"
+1,178,Software,0.5786516853932584,"game, play, fun, app, love, enjoy, time, like, free, kid"
+2,194,Pet Supplies,0.5618556701030928,"cat, dog, water, love, easi, filter, like, toy, littl, keep"
+3,134,Beauty,0.2537313432835821,"keyboard, hair, use, color, love, mani, even, sturdi, went, like"
+4,277,Appliances,0.37545126353790614,"work, replac, great, instal, use, new, year, make, tri, not"
+5,244,Musical Instruments,0.47540983606557374,"qualiti, good, sound, guitar, price, well, like, better, look, nice"

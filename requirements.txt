@@ -1,0 +1,9 @@
+# ReviewLens - Text Mining & Document Intelligence System
+# Tested with Python 3.9 (streamlit 1.30, pandas 2.0, numpy 1.24, plotly 5.18, nltk 3.8), Python 3.12 (streamlit 1.66,
+# pandas 3.1, numpy 2.5, plotly 7.1, nltk 3.10) and Python 3.14 (streamlit 1.67, pandas 3.1, numpy 2.5, plotly 7.1, nltk 3.10).
+# No scikit-learn: TF-IDF, Naive Bayes, K-Means, Purity and Rand Index are implemented manually.
+streamlit>=1.30
+pandas>=1.5
+numpy>=1.23
+plotly>=5.15
+nltk>=3.9
